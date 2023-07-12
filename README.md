@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nxatha
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 👋 Hi, I’m Nkatha
+- 👀 I’m a Data Analyst  interested in Data Science
+- 🌱 I’m currently learning Data Visualization with R shiny
 - 💞️ I’m looking to collaborate on R 
 - 📫 How to reach me (right here!!!)
 
