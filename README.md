@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nkatha
-- 👀 I’m a Data Analyst  interested in Data Science
 - 🌱 I’m currently learning Data Visualization with R shiny
-- 💞️ I’m looking to collaborate on R 
+- 💞️ I’m looking to collaborate on R and interested in technical Business Analyst Roles
 - 📫 Email: nkatha.karauri@gmail.com
 -  LinkedIn: Linkedin.com/in/nxatha
          
