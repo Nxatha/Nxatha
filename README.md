@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Mary/Nkatha
-- 🌱 I’m currently learning Data Visualization with R shiny
 - 💞️ I’m looking to collaborate on R and interested in technical Business Analyst Roles
 - 📫 Email: nkatha.karauri@gmail.com
+- Business: analytics@ihsani.co.ke
+- Business phone : +254 711 575 264
 
          
 
