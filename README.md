@@ -3,6 +3,7 @@
 - 📫 Email: nkatha.karauri@gmail.com
 - Business: analytics@ihsani.co.ke
 - Business phone : +254 711 575 264
+- Web: https://nxatha.github.io/portfolio
 
          
 
