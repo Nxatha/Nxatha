@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Mary/Nkatha
-- 💞️ I’m looking to collaborate on R and interested in technical Business Analyst Roles
-- 📫 Email: nkatha.karauri@gmail.com
-- Business: analytics@ihsani.co.ke
+- 💞️ I’m looking to collaborate on R Shiny Enterprise Application Development and interested in technical Business Analyst Roles
+- 📫 Email: mary@nxtdatanalytics.com
+- Business: https://nxtdatanalytics.com
 - Business phone : +254 711 575 264
-- Web: https://nxatha.github.io/portfolio
+- Portfolio page: https://nxatha.github.io/portfolio
 
          
 
